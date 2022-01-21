@@ -1,9 +1,26 @@
 body{
-	background: #6959CD
+	}	
+
+#capa{
+	width:40% ;
+	height: 200px;
 	}
+
+.principal {
+	background: #6959CD
+	}		
+
+h1	{
+	text-align: center
+	}	
+
+#endereco{
+	font-size: 20px
+	     }
 
 p 	{
 	text-align: center;
+	color: greenyellow;
 	}
 
 b 	{
@@ -11,5 +28,29 @@ b 	{
 	}
 
 i	{
-    color: purple; 
+    color: whitesmoke; 
+	}
+
+.itens{
+	font-style: italic;
+	}	
+
+.estoque{
+	background: #DA70D6;
+	padding: 20px;	
+	}
+
+h2 {
+	text-align: center;
+	}	
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+	}
+
+.imagemcapas{
+	width: 50%;
 	}
