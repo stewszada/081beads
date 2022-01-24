@@ -1,56 +1,39 @@
-body{
-	}	
-
-#capa{
-	width:40% ;
-	height: 200px;
-	}
-
-.principal {
-	background: #6959CD
-	}		
-
-h1	{
-	text-align: center
-	}	
-
-#endereco{
-	font-size: 20px
-	     }
-
-p 	{
-	text-align: center;
-	color: greenyellow;
-	}
-
-b 	{
+.titulo-esp{
+	padding-left: 575px;
 	color: whitesmoke;
-	}
+}
 
-i	{
-    color: whitesmoke; 
-	}
+.espacamento{
+	padding-left: 20px;
+	font-size: 25px;
+}
 
-.itens{
-	font-style: italic;
-	}	
+.paragrafo{
+	color: floralwhite;
+	font-size: 18px;
+	padding-bottom: 5px;
+}
 
-.estoque{
-	background: #DA70D6;
-	padding: 20px;	
-	}
-
-h2 {
-	text-align: center;
-	}	
-
-ul{
-	display: inline-block;
-	vertical-align: top;
-	width: 20%;
-	margin-right: 15%;
-	}
-
-.imagemcapas{
+.capa{
 	width: 50%;
-	}
+	height: 220px;
+	padding-left: 320px;
+}
+
+.cor-lista{
+	background: #87CEEB;
+	padding-bottom: 15px;
+}
+
+.lista-estilo{
+	color: floralwhite;
+}
+
+.corzinha-fundo{
+	background: #87CEFA;
+	padding-bottom: 15px;
+}
+
+.cor-corpo{
+	background: #836FFF;
+}
